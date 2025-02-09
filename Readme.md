@@ -15,8 +15,6 @@ To get started, download the provided Phase 0 data. Use any tools or methods to 
 
 Sales Data (Phase X - Sales.csv): Number of weekly units sold.
 
- 
-
 Price Data (Phase X - Price.csv): The price CSV file lists product pricing information based on actual transactions. Note that you won’t see prices if there is no product transaction in a specific week. 
 
 What is the expected prediction task?
